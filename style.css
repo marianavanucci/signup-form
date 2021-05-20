@@ -1,3 +1,43 @@
 body{
     background-color: rgb(238, 136, 132);
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 4.4rem;
+    width: 38rem;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 1.2;
+}
+h2{
+    color: white;
+    font-size: ;
+}
+
+.form-container{
+    width: 100%;
+    margin: 2rem 0 0;
+    background-color: #ffffff;
+    padding: 4rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0.8rem 0.2rem rgba(0, 0, 0, 0.2);
+}
+
+.trial{
+        background-color: #6055a5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 0.8rem 0.2rem rgba(0, 0, 0, 0.2);
+        color: white;
+
+}
+
+.go{
+    text-transform: uppercase;
+    background-color: #38cc8c;
+    color: #ffffff;
+    box-shadow: 0 0.5rem 0.2rem #61d6a3;
 }
