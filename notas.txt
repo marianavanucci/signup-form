@@ -1,0 +1,4 @@
+crlt + crase ´[ => arrega o codigo pra direita ou esquerda
+shift + alt + setinha pra baixo => duplica linha do codigo selecionadon
+
+alt da esquerda + setinha de cima ou baixo anda com o codigo e encaixa ele onde eu quero
