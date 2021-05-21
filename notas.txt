@@ -12,3 +12,13 @@ display: flex;
 align-items: center;
 flex-direction: column;
 justify-content: center;
+
+classes obs:
+
+class.especial => irmao
+
+class .especial => filho
+
+.especial => todos
+
+evistar usar last child 
