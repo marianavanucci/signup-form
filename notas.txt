@@ -4,6 +4,8 @@ shift + alt + setinha pra baixo => duplica linha do codigo selecionadon
 alt da esquerda + setinha de cima ou baixo anda com o codigo e encaixa ele ond
 e eu quero
 
+COMO FAZER COMENTATIOS => CTRL + 2 PONTOS
+
 
 
 sempre usar esses 4 juntos no flex baixo
